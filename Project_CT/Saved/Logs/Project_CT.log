@@ -1471,3 +1471,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.09-14.19.36:757][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.01.09-14.19.36:761][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2023.01.09-14.19.36:788][861]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.01.09-14.24.58:419][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.01.09-14.24.58:434][334]LogSavePackage: Moving '../../../../../MyProject/ProjectCT/Project_CT/Saved/ThirdPersonExampleMap_Auto153859AEA4C0B8D91828696B9184F7CE6.tmp' to '../../../../../MyProject/ProjectCT/Project_CT/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2023.01.09-14.24.58:435][334]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.034
+[2023.01.09-14.24.58:435][334]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2023.01.09-14.24.58:435][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.01.09-14.24.58:442][334]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.01.09-14.24.58:442][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2023.01.09-14.24.58:459][334]LogSavePackage: Moving '../../../../../MyProject/ProjectCT/Project_CT/Saved/ThirdPersonCharacter_Auto1EC1B16F34EC3B8EF5C59E4885E0304D8.tmp' to '../../../../../MyProject/ProjectCT/Project_CT/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2023.01.09-14.24.58:459][334]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.01.09-14.25.15:518][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.09-14.25.15:549][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.09-14.25.15:560][660]LogSavePackage: Moving '../../../../../MyProject/ProjectCT/Project_CT/Saved/ThirdPersonExampleMapE38CD67E4D081DF0BA60118983D60D69.tmp' to '../../../../../MyProject/ProjectCT/Project_CT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.09-14.25.15:563][660]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.029
+[2023.01.09-14.25.15:575][660]LogSavePackage: Moving '../../../../../MyProject/ProjectCT/Project_CT/Saved/ThirdPersonCharacterDA25D6D3411AE12C0C93E5B232F7AD0F.tmp' to '../../../../../MyProject/ProjectCT/Project_CT/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.09-14.25.15:585][660]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.09-14.25.15:585][660]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.09-14.25.15:585][660]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
